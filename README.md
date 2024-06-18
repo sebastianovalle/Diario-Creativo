@@ -25,6 +25,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 
 16-06-2024 -¿Es más difícil la bajada o la subida?
 
+![Captura de pantalla 2024-06-17 214326](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/25e2be54-9f35-4a75-aec9-1b395d1a8747)
 
 
 17-06-2024 - Nuevas perspectivas, escuchar es aprender...
