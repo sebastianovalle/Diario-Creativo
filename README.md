@@ -25,7 +25,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 17-06-2024 - Nuevas perspectivas, escuchar es aprender...
 
 
-18-06-2024
+18-06-2024 - Ser creativo es atreverse
 
 
 19-06-2024
