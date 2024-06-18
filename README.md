@@ -11,7 +11,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 -
 14-06-2024 - Nuevas herramientas, nuevas ideas
 ![Captura de pantalla 2024-06-17 205735](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/2f1206f0-a242-47ce-b3bb-e55536e06531)
-No siempre es necesario volver a inventar la rueda, a veces alguien la ha inventado por nosotros y lo mejor que podemos hacer es usarla.
+-No siempre es necesario volver a inventar la rueda, a veces alguien la ha inventado por nosotros y lo mejor que podemos hacer es usarla.
 -
 15-06-2024 - Resultados test preferencias creativas
 ![Preferencias creativas](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/5fae0bf1-c53f-4dfc-969c-dd982a992ca5)
