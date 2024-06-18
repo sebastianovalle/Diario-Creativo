@@ -30,6 +30,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 
 17-06-2024 - Nuevas perspectivas, escuchar es aprender...
 
+![file](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/4ee63e42-3a27-4830-8769-88020e7d543a)
 
 18-06-2024 - Ser creativo es atreverse
 
