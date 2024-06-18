@@ -25,8 +25,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 
 16-06-2024 -¿Es más difícil la bajada o la subida?
 
-![IMG_20240616_092409_136](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/5c836868-991f-460b-960e-62bbb2bb6314)
-![IMG_20240616_093630_928](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/ea22cd69-68a4-4a1d-b6b4-1453061bbe00)
+
 
 17-06-2024 - Nuevas perspectivas, escuchar es aprender...
 
@@ -35,3 +34,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 
 
 19-06-2024 - Hacemos más de lo que creemos, somos más creativos de lo que pensamos
+
+![Captura de pantalla 2024-06-17 214130](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/13671f87-1572-4f10-a049-539d01e337b7)
+
+
