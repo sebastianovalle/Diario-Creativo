@@ -16,11 +16,11 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 14-06-2024 - Nuevas herramientas, nuevas ideas
 
 
-15-06-2024 Resultados test preferencias creativas
+15-06-2024 - Resultados test preferencias creativas
 ![Preferencias creativas](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/5fae0bf1-c53f-4dfc-969c-dd982a992ca5)
 
 
-16-06-2024
+16-06-2024 -¿Es más difícil la bajada o la subida?
 
 17-06-2024
 
