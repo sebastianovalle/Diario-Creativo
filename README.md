@@ -17,6 +17,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 
 
 15-06-2024
+![Preferencias creativas](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/5fae0bf1-c53f-4dfc-969c-dd982a992ca5)
 
 
 16-06-2024
