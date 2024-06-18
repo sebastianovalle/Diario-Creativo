@@ -33,6 +33,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 
 18-06-2024 - Ser creativo es atreverse
 
+![Captura de pantalla 2024-06-17 214456](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/c2d89f31-56da-4e4c-9796-bdd551ebe772)
 
 19-06-2024 - Hacemos más de lo que creemos, somos más creativos de lo que pensamos
 
