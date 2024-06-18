@@ -5,8 +5,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 
 12-06-2024 ¿Cómo desvarar un Renault 4 sin switch?
 
-
-
+-
 13-06-2024 - ¿Está bien mi hoja de vida?
 ![Captura de pantalla 2024-06-17 212631](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/ac2adeca-fdc7-4ed9-a157-23a53046ded8)
 -
