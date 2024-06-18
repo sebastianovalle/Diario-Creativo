@@ -34,4 +34,4 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 18-06-2024 - Ser creativo es atreverse
 
 
-19-06-2024
+19-06-2024 - Hacemos más de lo que creemos, somos más creativos de lo que pensamos
