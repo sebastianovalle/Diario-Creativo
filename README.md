@@ -13,7 +13,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 13-06-2024 - ¿Está bien mi hoja de vida?
 
 
-14-06-2024
+14-06-2024 - Nuevas herramientas, nuevas ideas
 
 
 15-06-2024
