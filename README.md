@@ -22,7 +22,7 @@ En el archivo README.md se encontrarán los archivos de audio o vídeo correspon
 
 16-06-2024 -¿Es más difícil la bajada o la subida?
 
-17-06-2024
+17-06-2024 - Nuevas perspectivas, escuchar es aprender...
 
 
 18-06-2024
