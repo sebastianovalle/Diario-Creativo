@@ -1,7 +1,7 @@
 # Diario-Creativo
 
 En este repositorio de desarrolla el diario creativo correspondiente a uno de los entregables del curso de creatividad.
-En el archivo README.md se encontrarán los archivos multimedia correspondientes a cada día junto con un título alegorico a cada situación y dentro de los diferentes archivos del repositorio, nombrados cada uno con la fecha correspondiente hay una descripción y análisis más profundo acerca de la situación y la reflexión de cada situación presentada (La idea es primero ver las imágenes y luego leer los dempas archivos para hacer una inferencia y pensar), sobre todo de como llegué a sentir un desarrollo y aplicación de la creatividad en cada situación.
+En el archivo README.md se encontrarán los archivos multimedia correspondientes a cada día junto con un título alegorico a cada situación y dentro de los diferentes archivos del repositorio, nombrados cada uno con la fecha correspondiente hay una descripción y análisis más profundo acerca de la situación y la reflexión de cada situación presentada (La idea es primero ver las imágenes y luego leer los demás archivos para hacer una inferencia y pensar), sobre todo de como llegué a sentir un desarrollo y aplicación de la creatividad en cada situación.
 -
 12-06-2024 ¿Cómo desvarar un Renault 4 sin switch?
 ![IMG_20240619_110358_246](https://github.com/sebastianovalle/Diario-Creativo/assets/75762926/315978c6-5821-42c2-9ca0-a8cf9bc060c4)
